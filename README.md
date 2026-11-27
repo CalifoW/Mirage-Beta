@@ -3,6 +3,16 @@
 Mirage gathers, converts and runs your tasks in **Bee Swarm Simulator** while you're away.
 Its **AI gather** watches the field and goes for bubbles, tokens and balloons instead of walking a fixed pattern.
 
+
+<p align="center">
+  <img src="docs/home-dark.png" width="49%" alt="Home (dark theme)">
+  <img src="docs/gather-light.png" width="49%" alt="Gather (light theme)">
+</p>
+<p align="center">
+  <img src="docs/ai-dark.png" width="49%" alt="AI gather targets">
+  <img src="docs/hotbar-light.png" width="49%" alt="Hotbar">
+</p>
+
 > **Closed beta.** Mirage needs a **beta key** to start. Ask the author for one: one key per tester, tied to one PC.
 
 ## Download
@@ -37,12 +47,18 @@ Updating: extract the new version anywhere. Your settings and key are kept (they
 - **Mini bar** while the macro runs (top right of Roblox, never takes the focus), always-on-top window,
   light and dark themes
 
+  <img src="docs/minibar.png" width="272" alt="Mini bar">
+
 Coming next: Stump, Pepper and Coconut fields, the other dispensers, boosters and quest givers.
 
 ## Your data
 
 - Key check: your key and an anonymous ID of your PC (a hash, never your name or files).
 - Field images to improve the AI are sent **only if you accept** (you can turn it off in Settings).
+
+## Settings
+
+<img src="docs/settings-dark.png" width="60%" alt="Settings">
 
 ## Keys
 
